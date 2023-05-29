@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "category": "Électronique",
+    "name": "Smartphone",
+    "description": "Un smartphone puissant avec de nombreuses fonctionnalités.",
+    "featured": true,
+    "homepage": true,
+    "rating": 4,
+    "price": 599.99,
+    "picture": "smartphone.webp"
+  },
+  {
+    "id": 2,
+    "category": "Mode",
+    "name": "Chemise en coton",
+    "description": "Une chemise élégante en coton pour toutes les occasions.",
+    "featured": false,
+    "homepage": false,
+    "rating": 3,
+    "price": 39.99,
+    "picture": "chemise.jpg"
+  },
+  {
+    "id": 3,
+    "category": "Maison",
+    "name": "Tapis de salon",
+    "description": "Un tapis doux et confortable pour votre salon.",
+    "featured": true,
+    "homepage": true,
+    "rating": 5,
+    "price": 149.99,
+    "picture": "tapis.jpg"
+  },
+  {
+    "id": 4,
+    "category": "Sports",
+    "name": "Chaussures de course",
+    "description": "Des chaussures de course légères et résistantes pour les amateurs de sport.",
+    "featured": true,
+    "homepage": false,
+    "rating": 4,
+    "price": 79.99,
+    "picture": "sport-shoes.webp"
+  },
+  {
+    "id": 5,
+    "category": "Électronique",
+    "name": "Casque sans fil",
+    "description": "Un casque sans fil avec une qualité sonore exceptionnelle.",
+    "featured": false,
+    "homepage": false,
+    "rating": 4,
+    "price": 129.99,
+    "picture": "casque.jpg"
+  },
+  {
+    "id": 6,
+    "category": "Mode",
+    "name": "Robe d'été",
+    "description": "Une robe légère et colorée parfaite pour l'été.",
+    "featured": false,
+    "homepage": true,
+    "rating": 4,
+    "price": 49.99,
+    "picture": "dress.webp"
+  },
+  {
+    "id": 7,
+    "category": "Maison",
+    "name": "Ensemble de coussins",
+    "description": "Un ensemble de coussins confortables pour votre canapé.",
+    "featured": true,
+    "homepage": false,
+    "rating": 3,
+    "price": 29.99,
+    "picture": "coussin.webp"
+  },
+  {
+    "id": 8,
+    "category": "Sports",
+    "name": "Sac de sport",
+    "description": "Un sac spacieux et pratique pour transporter vos affaires de sport.",
+    "featured": false,
+    "homepage": true,
+    "rating": 3,
+    "price": 49.99,
+    "picture": "sac-a-dos.jpg"
+  },
+  {
+    "id": 9,
+    "category": "Électronique",
+    "name": "Tablette",
+    "description": "Une tablette légère avec un écran haute résolution.",
+    "featured": true,
+    "homepage": false,
+    "rating": 5,
+    "price": 299.99,
+    "picture": "tablette.jpg"
+  },
+  {
+    "id": 10,
+    "category": "Mode",
+    "name": "Montre élégante",
+    "description": "Une montre élégante pour compléter votre tenue.",
+    "featured": true,
+    "homepage": true,
+    "rating": 4,
+    "price": 199.99,
+    "picture": "montre.jpg"
+  },
+  {
+    "id": 11,
+    "category": "Maison",
+    "name": "Lampe de table",
+    "description": "Une lampe de table moderne et ajustable.",
+    "featured": false,
+    "homepage": false,
+    "rating": 4,
+    "price": 79.99
+  },
+  {
+    "id": 12,
+    "category": "Sports",
+    "name": "Ballon de football",
+    "description": "Un ballon de football de haute qualité pour les passionnés du sport.",
+    "featured": false,
+    "homepage": true,
+    "rating": 5,
+    "price": 24.99
+  },
+  {
+    "id": 13,
+    "category": "Électronique",
+    "name": "Enceinte Bluetooth",
+    "description": "Une enceinte portable avec une excellente qualité audio.",
+    "featured": true,
+    "homepage": false,
+    "rating": 4,
+    "price": 89.99
+  },
+  {
+    "id": 14,
+    "category": "Mode",
+    "name": "Sac à dos",
+    "description": "Un sac à dos durable et fonctionnel pour vos aventures.",
+    "featured": true,
+    "homepage": true,
+    "rating": 4,
+    "price": 59.99
+  },
+  {
+    "id": 15,
+    "category": "Maison",
+    "name": "Miroir mural",
+    "description": "Un miroir mural élégant pour agrandir votre espace.",
+    "featured": false,
+    "homepage": false,
+    "rating": 3,
+    "price": 99.99
+  },
+  {
+    "id": 16,
+    "category": "Sports",
+    "name": "Gourde réutilisable",
+    "description": "Une gourde écologique pour vous hydrater lors de vos activités sportives.",
+    "featured": false,
+    "homepage": true,
+    "rating": 4,
+    "price": 14.99
+  },
+  {
+    "id": 17,
+    "category": "Électronique",
+    "name": "Écouteurs sans fil",
+    "description": "Des écouteurs sans fil avec une autonomie longue durée.",
+    "featured": true,
+    "homepage": false,
+    "rating": 5,
+    "price": 129.99
+  },
+  {
+    "id": 18,
+    "category": "Mode",
+    "name": "Chaussures en cuir",
+    "description": "Des chaussures en cuir de qualité pour un style élégant.",
+    "featured": false,
+    "homepage": true,
+    "rating": 4,
+    "price": 129.99
+  },
+  {
+    "id": 19,
+    "category": "Maison",
+    "name": "Housse de couette",
+    "description": "Une housse de couette douce et confortable pour des nuits reposantes.",
+    "featured": true,
+    "homepage": false,
+    "rating": 4,
+    "price": 79.99
+  },
+  {
+    "id": 20,
+    "category": "Sports",
+    "name": "Tapis de yoga",
+    "description": "Un tapis de yoga antidérapant pour vos séances de méditation.",
+    "featured": true,
+    "homepage": true,
+    "rating": 5,
+    "price": 39.99
+  }
+]
